@@ -2,7 +2,7 @@
 
 <item>
 <title>Metallica - Nothing Else Matters - Official Music Video</title>
-<urlsolve>https://www.youtube.com/watch?v=tAGnKpE4NCI</urlsolve>
+<link>https://www.youtube.com/watch?v=tAGnKpE4NCI</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -31,7 +31,7 @@
 
 <item>
 <title>Metallica</title>
-<urlsolve>https://www.youtube.com/watch?v=tAGnKpE4NCI</urlsolve>
+<urlresolver>https://www.youtube.com/watch?v=tAGnKpE4NCI</urlresolver>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
