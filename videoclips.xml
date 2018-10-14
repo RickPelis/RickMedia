@@ -42,10 +42,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>lista - youtube</title>
-<urlsolve>YOUTUBE_CHANNEL_ID_1 = “PL-cHFXShYL0f21tvSg6TdfkEZcRcDKNwd”</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
