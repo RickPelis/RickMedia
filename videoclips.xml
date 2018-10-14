@@ -45,7 +45,7 @@
 
 <item>
 <title>lista - youtube</title>
-<urlsolve>https://www.youtube.com/playlist?list=PLB6C29CDC9EB08530</urlsolve>
+<urlsolve>YOUTUBE_CHANNEL_ID_1 = “PL-cHFXShYL0f21tvSg6TdfkEZcRcDKNwd”</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
