@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR gold] -- Series -- [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Series</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -12,7 +18,6 @@
 <title>[COLOR gold] -- Peliculas por generos -- [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://igmoreme</link>
 </item>
 
 <item>
