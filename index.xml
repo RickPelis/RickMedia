@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<title>[COLOR red] ---- KODI - RICKMEDIA ---- [/COLOR]</title>
+<item>
+<title>[COLOR green]       ------ KODI - RICKMEDIA ------ [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>none</link>
+</item>
 
 <item>
 <title>[COLOR gold]Menú Series[/COLOR]</title>
@@ -14,7 +19,7 @@
 <title>[COLOR gold] -- Peliculas por generos -- [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://igmoreme</link>
+<link>none</link>
 </item>
 
 <item>
