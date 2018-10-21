@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR green]       ------ KODI - RICKMEDIA ------ [/COLOR]</title>
+<title>[COLOR lime]                        ------ KODI -- RICKMEDIA ------ [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>none</link>
@@ -13,6 +13,14 @@
 <fanart></fanart>
 <link>http://igmoreme</link>
 <externallink>https://raw.githubusercontent.com/RickPelis/RickMedia/master/indexseries.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR gold]Sagas de Peliculas[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://igmoreme</link>
+<externallink>https://raw.githubusercontent.com/RickPelis/RickMedia/master/indexsagas.xml</externallink>
 </item>
 
 <item>
@@ -79,15 +87,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]Sagas de Peliculas[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://igmoreme</link>
-<externallink>https://raw.githubusercontent.com/RickPelis/RickMedia/master/indexsagas.xml</externallink>
-</item>
-
-<item>
-<title>VideoClips</title>
+<title>[COLOR gold]Video-Clips[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://igmoreme</link>
