@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR gold] -- Series -- [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link></link>
-<externallink></externallink>
-</item>
-
-<item>
-<title>Series</title>
+<title>[COLOR gold]Series[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://igmoreme</link>
@@ -20,7 +12,7 @@
 <title>[COLOR gold] -- Peliculas por generos -- [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link></link>
+<link>http://</link>
 <externallink></externallink>
 </item>
 
@@ -81,7 +73,7 @@
 </item>
 
 <item>
-<title>Sagas de Peliculas</title>
+<title>[COLOR gold]Sagas de Peliculas[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://igmoreme</link>
